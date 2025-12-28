@@ -44,3 +44,6 @@ IV. Summary
 
 Despite its simplicity, the model captures the prominent features of ICF ignition, including a sharp ignition threshold and strong sensitivity of ignition time relative to initial temperature. The results demonstrate how alpha-particle self-heating can overcome energy losses above a certain initial temperature, leading to thermal runaway and ignition under fixed confinement conditions.
 
+V. Running the program
+
+Read file "requirements.txt". Open code, and run. Plots will be saved to "figures" folder.
